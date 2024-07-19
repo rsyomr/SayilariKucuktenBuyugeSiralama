@@ -1,0 +1,2 @@
+# SayilariKucuktenBuyugeSiralama
+SayilariKucuktenBuyugeSiralama
